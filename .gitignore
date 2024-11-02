@@ -1,0 +1,18 @@
+.venv/
+.idea/
+git add .gitignore
+git commit -m "Add .gitignore to ignore unnecessary files"
+git push origin main
+git add .
+git commit -m "Add .gitignore along with images and videos"
+git push origin main
+
+git add .gitignore
+git commit -m "Add .gitignore to ignore unnecessary files"
+git push origin main
+
+git add .
+git commit -m "Add website files"
+git push origin main
+
+
